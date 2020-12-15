@@ -1,12 +1,12 @@
 {
     "users": [
         {
-            "id": 1
+            "id": 1,
             "name": "John Doe",
             "email": "j@doe.com"
         },
         {
-            "id": 2
+            "id": 2,
             "name": "Jane Doe",
             "email": "jenny@d.o.e.com"
         }
@@ -89,7 +89,7 @@
             "title": "auieunad",
             "description": "olor sit amet, consectetur, adipis"
         }
-    ]
+    ],
     "currencies": [
         {
             "id" : 1,
