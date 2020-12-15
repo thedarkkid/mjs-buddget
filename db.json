@@ -89,22 +89,5 @@
             "title": "auieunad",
             "description": "olor sit amet, consectetur, adipis"
         }
-    ],
-    "currencies": [
-        {
-            "id" : 1,
-            "name": "United States Dollar",
-            "acronym": "USD"
-        },
-        {
-            "id" : 2,
-            "name": "Great British Pound",
-            "acronym": "GBP"
-        },
-        {
-            "id" : 3,
-            "name": "Nigerian Naira",
-            "acronym": "NGN"
-        }
     ]
 }
