@@ -1,4 +1,30 @@
 {
+    "users": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "email": "j@doe.com"
+        },
+        {
+            "id": 2,
+            "name": "Jane Doe",
+            "email": "jenny@d.o.e.com"
+        }
+    ],
+    "budgets": [
+        {
+            "id": 1,
+            "title": "Test Budget 1"
+        },
+        {
+            "id": 2,
+            "title": "Monthly Budget"
+        },
+        {
+            "id": 3,
+            "title": "Christmas Party Budget"
+        },
+    ],
     "expenditures": [
         {
             "id": 1,
@@ -62,6 +88,23 @@
             "currencyId":  1,
             "title": "auieunad",
             "description": "olor sit amet, consectetur, adipis"
+        }
+    ],
+    "currencies": [
+        {
+            "id" : 1,
+            "name": "United States Dollar",
+            "acronym": "USD"
+        },
+        {
+            "id" : 2,
+            "name": "Great British Pound",
+            "acronym": "GBP"
+        },
+        {
+            "id" : 3,
+            "name": "Nigerian Naira",
+            "acronym": "NGN"
         }
     ]
 }
