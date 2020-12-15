@@ -1,16 +1,4 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "John Doe",
-            "email": "j@doe.com"
-        },
-        {
-            "id": 2,
-            "name": "Jane Doe",
-            "email": "jenny@d.o.e.com"
-        }
-    ],
     "budgets": [
         {
             "id": 1,
