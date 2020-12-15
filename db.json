@@ -1,67 +1,6 @@
 {
     "expenditures": [
-        {
-            "id": 1,
-            "userId": 1,
-            "budgetId": 1,
-            "price": "200",
-            "currencyId":  1,
-            "title": "consectetur",
-            "description": "ciatis unde omnis iste natus error"
-        },
-        {
-            "id": 2,
-            "userId": 1,
-            "budgetId": 2,
-            "price": "20",
-            "currencyId":  1,
-            "title": "enim",
-            "description": "tae dicta sunt explicabo. Nemo e"
-        },
-        {
-            "id": 3,
-            "userId": 2,
-            "budgetId": 2,
-            "price": "50",
-            "currencyId":  1,
-            "title": "laudantium",
-            "description": "ipsam voluptatem quia voluptas"
-        },
-        {
-            "id": 4,
-            "userId": 1,
-            "budgetId": 1,
-            "price": "8",
-            "currencyId":  1,
-            "title": "minima",
-            "description": "iure reprehenderit qui in ea voluptat"
-        },
-        {
-            "id": 5,
-            "userId": 2,
-            "budgetId": 2,
-            "price": "80",
-            "currencyId":  1,
-            "title": "consequuntur",
-            "description": "atae vitae dicta sunt explicabo. Nemo enim ipsa"
-        },
-        {
-            "id": 6,
-            "userId": 2,
-            "budgetId": 1,
-            "price": "10",
-            "currencyId":  1,
-            "title": "commodi",
-            "description": "utem vel eum iure repreh"
-        },
-        {
-            "id": 7,
-            "userId": 1,
-            "budgetId": 3,
-            "price": "5",
-            "currencyId":  1,
-            "title": "auieunad",
-            "description": "olor sit amet, consectetur, adipis"
-        }
+      "name" : 1,
+      "email" : 2,
     ]
 }
