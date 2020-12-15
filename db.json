@@ -27,8 +27,8 @@
     ],
     "expenditures" : [
         {
-            "userId": 1,
             "id": 1,
+            "userId": 1,
             "budgetId": 1,
             "price": "200",
             "currencyId":  1,
@@ -36,8 +36,8 @@
             "description": "ciatis unde omnis iste natus error"
         },
         {
-            "userId": 1,
             "id": 2,
+            "userId": 1,
             "budgetId": 2,
             "price": "20",
             "currencyId":  1,
@@ -54,8 +54,8 @@
             "description": "ipsam voluptatem quia voluptas"
         },
         {
-            "userId": 1,
             "id": 4,
+            "userId": 1,
             "budgetId": 1,
             "price": "8",
             "currencyId":  1,
@@ -81,8 +81,8 @@
             "description": "utem vel eum iure repreh"
         },
         {
-            "userId": 1,
             "id": 7,
+            "userId": 1,
             "budgetId": 3,
             "price": "5",
             "currencyId":  1,
