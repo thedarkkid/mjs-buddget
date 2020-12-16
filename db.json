@@ -8,21 +8,21 @@
                 {
                     "id": 1,
                     "price": "200",
-                    "currencyId":  1,
+                    "currency":  "USD",
                     "title": "consectetur",
                     "description": "ciatis unde omnis iste natus error"
                 },
                 {
                     "id": 4,
                     "price": "8",
-                    "currencyId":  1,
+                    "currency":  "USD",
                     "title": "minima",
                     "description": "iure reprehenderit qui in ea voluptat"
                 },
                 {
                     "id": 6,
                     "price": "10",
-                    "currencyId":  1,
+                    "currency":  "USD",
                     "title": "commodi",
                     "description": "utem vel eum iure repreh"
                 }
@@ -36,21 +36,21 @@
                 {
                     "id": 2,
                     "price": "20",
-                    "currencyId":  1,
+                    "currency":  "USD",
                     "title": "enim",
                     "description": "tae dicta sunt explicabo. Nemo e"
                 },
                 {
                     "id": 3,
                     "price": "50",
-                    "currencyId":  1,
+                    "currency":  "USD",
                     "title": "laudantium",
                     "description": "ipsam voluptatem quia voluptas"
                 },
                 {
                     "id": 5,
                     "price": "80",
-                    "currencyId":  1,
+                    "currency":  "USD",
                     "title": "consequuntur",
                     "description": "atae vitae dicta sunt explicabo. Nemo enim ipsa"
                 }
@@ -64,7 +64,7 @@
                 {
                     "id": 7,
                     "price": "5",
-                    "currencyId":  1,
+                    "currency":  "USD",
                     "title": "auieunad",
                     "description": "olor sit amet, consectetur, adipis"
                 }
