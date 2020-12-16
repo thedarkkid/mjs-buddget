@@ -2,12 +2,11 @@
     "budgets": [
         {
             "id": 1,
+            "userId": 2,
             "title": "Test Budget 1",
             "expenditures": [
                 {
                     "id": 1,
-                    "userId": 1,
-                    "budgetId": 1,
                     "price": "200",
                     "currencyId":  1,
                     "title": "consectetur",
@@ -15,8 +14,6 @@
                 },
                 {
                     "id": 4,
-                    "userId": 1,
-                    "budgetId": 1,
                     "price": "8",
                     "currencyId":  1,
                     "title": "minima",
@@ -24,8 +21,6 @@
                 },
                 {
                     "id": 6,
-                    "userId": 2,
-                    "budgetId": 1,
                     "price": "10",
                     "currencyId":  1,
                     "title": "commodi",
@@ -35,12 +30,11 @@
         },
         {
             "id": 2,
+            "userId": 1,
             "title": "Monthly Budget",
             "expenditures": [
                 {
                     "id": 2,
-                    "userId": 1,
-                    "budgetId": 2,
                     "price": "20",
                     "currencyId":  1,
                     "title": "enim",
@@ -48,8 +42,6 @@
                 },
                 {
                     "id": 3,
-                    "userId": 2,
-                    "budgetId": 2,
                     "price": "50",
                     "currencyId":  1,
                     "title": "laudantium",
@@ -57,8 +49,6 @@
                 },
                 {
                     "id": 5,
-                    "userId": 2,
-                    "budgetId": 2,
                     "price": "80",
                     "currencyId":  1,
                     "title": "consequuntur",
@@ -68,12 +58,11 @@
         },
         {
             "id": 3,
+            "userId": 1,
             "title": "Christmas Party Budget",
             "expenditures": [
                 {
                     "id": 7,
-                    "userId": 1,
-                    "budgetId": 3,
                     "price": "5",
                     "currencyId":  1,
                     "title": "auieunad",
